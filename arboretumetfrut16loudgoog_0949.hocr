@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut16loudgoog_0949.png"; bbox 0 0 877 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 238 169 585 220">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 238 169 585 220">
+     <span class='ocr_line' id='line_1_1' title="bbox 346 169 477 190; baseline -0.008 -5"><span class='ocrx_word' id='word_1_1' title='bbox 346 169 406 189; x_wconf 63' lang='lat' dir='ltr'><em>cytino</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 411 169 477 190; x_wconf 63' lang='lat' dir='ltr'><em>alphus«.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 238 200 585 220; baseline 0.003 -5"><span class='ocrx_word' id='word_1_3' title='bbox 238 200 271 215; x_wconf 75' lang='lat' dir='ltr'><em>The</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 277 200 326 220; x_wconf 65' lang='lat' dir='ltr'>alpina</span> <span class='ocrx_word' id='word_1_5' title='bbox 333 200 398 220; x_wconf 62' lang='lat' dir='ltr'><em>Cydnus,</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 405 205 423 215; x_wconf 82' lang='lat' dir='ltr'><em>or</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 432 201 484 216; x_wconf 74' lang='lat' dir='ltr'><em>Soolck</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 492 201 585 216; x_wconf 67' lang='lat' dir='ltr'><em>Lab-mm».</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 325 791 456 804">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 325 791 456 804">
+     <span class='ocr_line' id='line_1_3' title="bbox 325 791 456 804; baseline -0.008 -3"><span class='ocrx_word' id='word_1_9' title='bbox 325 792 336 801; x_wconf 75' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_10' title='bbox 340 791 351 801; x_wconf 76' lang='lat' dir='ltr'><em>n.</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 357 791 401 804; x_wconf 50' lang='lat' dir='ltr'><em>mma.</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 405 791 456 801; x_wconf 60' lang='lat' dir='ltr'>«mum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 679 134 696 148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 679 134 696 148">
+     <span class='ocr_line' id='line_1_4' title="bbox 679 134 696 148; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 679 134 696 148; x_wconf 78' lang='grc'><em>81</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 811 41 818 123">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 811 41 818 123">
+     <span class='ocr_line' id='line_1_5' title="bbox 811 41 818 123; textangle 90"><span class='ocrx_word' id='word_1_14' title='bbox 816 100 818 123; x_wconf 34' lang='grc' dir='ltr'><em>,μ</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 811 41 818 84; x_wconf 40' lang='grc' dir='ltr'><em>ῌ-.ι</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

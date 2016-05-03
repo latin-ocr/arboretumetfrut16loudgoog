@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut16loudgoog_0380.png"; bbox 0 0 877 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 172 131 748 145">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 172 131 748 145">
+     <span class='ocr_line' id='line_1_1' title="bbox 172 131 748 145; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 172 131 205 145; x_wconf 71' lang='lat'>860</span> <span class='ocrx_word' id='word_1_2' title='bbox 310 133 415 145; x_wconf 60' lang='lat' dir='ltr'>Annona-uu</span> <span class='ocrx_word' id='word_1_3' title='bbox 428 134 462 145; x_wconf 75' lang='lat' dir='ltr'>nm</span> <span class='ocrx_word' id='word_1_4' title='bbox 475 133 590 145; x_wconf 71' lang='lat' dir='ltr'>nuncu-una.</span> <span class='ocrx_word' id='word_1_5' title='bbox 669 134 713 145; x_wconf 73' lang='lat' dir='ltr'>nm·</span> <span class='ocrx_word' id='word_1_6' title='bbox 721 134 748 145; x_wconf 90' lang='grc' dir='ltr'>ιιι.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 179 171 748 213">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 179 171 748 213">
+     <span class='ocr_line' id='line_1_2' title="bbox 179 171 748 193; baseline 0 -6"><span class='ocrx_word' id='word_1_7' title='bbox 179 172 260 191; x_wconf 58' lang='lat' dir='ltr'><em>Cutem</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 265 171 338 189; x_wconf 59' lang='lat' dir='ltr'>mmm.</span> <span class='ocrx_word' id='word_1_9' title='bbox 344 172 374 187; x_wconf 69' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_10' title='bbox 381 172 399 187; x_wconf 85' lang='lat' dir='ltr'>C.</span> <span class='ocrx_word' id='word_1_11' title='bbox 406 172 477 193; x_wconf 61' lang='lat' dir='ltr'>npffla.</span> <span class='ocrx_word' id='word_1_12' title='bbox 498 172 530 187; x_wconf 77' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_13' title='bbox 536 172 685 187; x_wconf 68' lang='lat' dir='ltr'>nureo-lobed-hnma</span> <span class='ocrx_word' id='word_1_14' title='bbox 692 172 748 190; x_wconf 73' lang='lat' dir='ltr'>Thom,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 332 192 581 213; baseline 0 -6"><span class='ocrx_word' id='word_1_15' title='bbox 332 192 361 206; x_wconf 74' lang='lat' dir='ltr'>md</span> <span class='ocrx_word' id='word_1_16' title='bbox 368 192 393 207; x_wconf 73' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_17' title='bbox 401 192 520 213; x_wconf 74' lang='lat' dir='ltr'>Pnnley-lenved</span> <span class='ocrx_word' id='word_1_18' title='bbox 527 192 581 207; x_wconf 69' lang='lat' dir='ltr'>Thom-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

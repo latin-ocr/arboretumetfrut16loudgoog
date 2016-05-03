@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut16loudgoog_0929.png"; bbox 0 0 877 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 293 121 469 172">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 293 121 469 172">
+     <span class='ocr_line' id='line_1_1' title="bbox 306 121 455 141; baseline -0.02 -4"><span class='ocrx_word' id='word_1_1' title='bbox 306 122 384 137; x_wconf 79' lang='lat' dir='ltr'>le&#39;mmu</span> <span class='ocrx_word' id='word_1_2' title='bbox 391 121 455 141; x_wconf 74' lang='lat' dir='ltr'>alpinus.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 293 141 469 172; baseline -0.011 -4"><span class='ocrx_word' id='word_1_3' title='bbox 293 154 326 168; x_wconf 74' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_4' title='bbox 333 141 383 172; x_wconf 34' lang='lat' dir='ltr'>ulpium⁸</span> <span class='ocrx_word' id='word_1_5' title='bbox 389 152 469 167; x_wconf 61' lang='lat' dir='ltr'>Rha-nnus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 368 631 493 643">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 368 631 493 643">
+     <span class='ocr_line' id='line_1_3' title="bbox 368 631 493 643; baseline -0.016 -1"><span class='ocrx_word' id='word_1_6' title='bbox 368 633 376 642; x_wconf 83' lang='grc' dir='ltr'>ιι</span> <span class='ocrx_word' id='word_1_7' title='bbox 383 632 395 641; x_wconf 72' lang='lat' dir='ltr'>n.</span> <span class='ocrx_word' id='word_1_8' title='bbox 400 631 493 643; x_wconf 58' lang='lat' dir='ltr'>mmm-..aum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

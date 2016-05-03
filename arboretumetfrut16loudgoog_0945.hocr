@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut16loudgoog_0945.png"; bbox 0 0 877 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 59 40 819 43">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 59 40 819 43">
+     <span class='ocr_line' id='line_1_1' title="bbox 59 40 819 43; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 59 40 819 43; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 324 125 525 171">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 324 125 525 171">
+     <span class='ocr_line' id='line_1_2' title="bbox 346 125 502 145; baseline -0.006 -5"><span class='ocrx_word' id='word_1_2' title='bbox 346 125 404 145; x_wconf 53' lang='lat' dir='ltr'><strong>essm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 411 125 502 140; x_wconf 68' lang='lat' dir='ltr'><strong>tab-mm.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 324 157 525 171; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 324 157 356 171; x_wconf 85' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 363 162 428 171; x_wconf 67' lang='lat' dir='ltr'><em>common</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 435 157 525 171; x_wconf 71' lang='lat' dir='ltr'>hbumum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 364 811 489 824">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 364 811 489 824">
+     <span class='ocr_line' id='line_1_4' title="bbox 364 811 489 824; baseline 0.008 -3"><span class='ocrx_word' id='word_1_7' title='bbox 364 811 489 824; x_wconf 54' lang='lat' dir='ltr'><strong>»ammonam-n.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 691 123 711 139">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 691 123 711 139">
+     <span class='ocr_line' id='line_1_5' title="bbox 691 123 711 139; baseline -0.05 0"><span class='ocrx_word' id='word_1_8' title='bbox 691 123 711 139; x_wconf 83' lang='lat'><strong>⁷9</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

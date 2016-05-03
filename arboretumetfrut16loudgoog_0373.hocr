@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut16loudgoog_0373.png"; bbox 0 0 877 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 129 133 706 149">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 129 133 706 149">
+     <span class='ocr_line' id='line_1_1' title="bbox 129 133 706 149; baseline 0.003 -3"><span class='ocrx_word' id='word_1_1' title='bbox 129 136 179 147; x_wconf 62' lang='lat' dir='ltr'>cun.</span> <span class='ocrx_word' id='word_1_2' title='bbox 188 136 230 147; x_wconf 62' lang='lat'>¹1³1.</span> <span class='ocrx_word' id='word_1_3' title='bbox 312 135 402 147; x_wconf 61' lang='lat' dir='ltr'>nom-cnm.</span> <span class='ocrx_word' id='word_1_4' title='bbox 426 133 527 149; x_wconf 62' lang='lat' dir='ltr'>cnum‘uus.</span> <span class='ocrx_word' id='word_1_5' title='bbox 674 133 706 148; x_wconf 74' lang='lat'>8⁵3</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 174 707 219">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 174 707 219">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 174 707 195; baseline 0.002 -6"><span class='ocrx_word' id='word_1_6' title='bbox 130 174 214 193; x_wconf 58' lang='lat' dir='ltr'>crudem</span> <span class='ocrx_word' id='word_1_7' title='bbox 221 174 314 193; x_wconf 54' lang='lat' dir='ltr'>yhnduldsffi</span> <span class='ocrx_word' id='word_1_8' title='bbox 320 174 349 189; x_wconf 76' lang='lat' dir='ltr'>and</span> <span class='ocrx_word' id='word_1_9' title='bbox 357 174 479 193; x_wconf 67' lang='lat' dir='ltr'>c.g.eubv=·110·0a.</span> <span class='ocrx_word' id='word_1_10' title='bbox 497 176 529 191; x_wconf 76' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_11' title='bbox 536 175 611 195; x_wconf 68' lang='lat' dir='ltr'><strong>glandula·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 619 175 707 193; x_wconf 63' lang='lat' dir='ltr'>Thermum</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 264 194 577 219; baseline 0.006 -11"><span class='ocrx_word' id='word_1_13' title='bbox 264 194 288 208; x_wconf 73' lang='lat' dir='ltr'>nne</span> <span class='ocrx_word' id='word_1_14' title='bbox 296 194 431 219; x_wconf 52' lang='lat' dir='ltr'>ffqbvillme-{oqvcd</span> <span class='ocrx_word' id='word_1_15' title='bbox 436 195 513 214; x_wconf 70' lang='lat' dir='ltr'>glandulae</span> <span class='ocrx_word' id='word_1_16' title='bbox 522 195 577 210; x_wconf 75' lang='lat' dir='ltr'>Thorn-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 399 1254 444 1263">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 399 1254 444 1263">
+     <span class='ocr_line' id='line_1_4' title="bbox 399 1254 444 1263; baseline 0.022 -1"><span class='ocrx_word' id='word_1_17' title='bbox 399 1254 422 1263; x_wconf 51' lang='grc' dir='ltr'>ῆι</span> <span class='ocrx_word' id='word_1_18' title='bbox 435 1254 444 1263; x_wconf 60' lang='lat' dir='ltr'><em>v</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

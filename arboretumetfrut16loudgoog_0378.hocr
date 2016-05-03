@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arboretumetfrut16loudgoog_0378.png"; bbox 0 0 877 1358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 163 128 740 147">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 163 128 740 147">
+     <span class='ocr_line' id='line_1_1' title="bbox 163 128 740 147; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 163 133 195 147; x_wconf 75' lang='lat'><strong>558</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 313 135 419 146; x_wconf 61' lang='lat' dir='ltr'><strong>annonam-un</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 432 135 467 146; x_wconf 74' lang='lat' dir='ltr'><strong>,nm</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 479 128 594 146; x_wconf 67' lang='grc' dir='ltr'><strong>Ρίιυτιεῑτυκ.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 662 135 706 146; x_wconf 72' lang='lat' dir='ltr'><strong>mm·</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 714 130 740 146; x_wconf 80' lang='lat' dir='ltr'><strong>ni.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 163 173 741 230">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 163 173 741 230">
+     <span class='ocr_line' id='line_1_2' title="bbox 163 173 741 193; baseline 0 -5"><span class='ocrx_word' id='word_1_7' title='bbox 163 175 245 193; x_wconf 53' lang='lat' dir='ltr'><strong>cmm.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 252 174 329 193; x_wconf 64' lang='lat' dir='ltr'><strong>mam</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 341 174 400 190; x_wconf 57' lang='lat' dir='ltr'><strong>almam,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 409 173 439 188; x_wconf 63' lang='lat' dir='ltr'><strong>aaa</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 451 173 558 193; x_wconf 59' lang='lat' dir='ltr'><strong>ooo-quun.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 578 173 610 188; x_wconf 71' lang='lat' dir='ltr'><strong>The</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 622 174 671 188; x_wconf 68' lang='grc' dir='ltr'>Αιιιῑι-</span> <span class='ocrx_word' id='word_1_14' title='bbox 682 174 741 193; x_wconf 69' lang='lat' dir='ltr'><strong>purple-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 292 193 549 230; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 292 193 610 230; x_wconf 43' lang='grc' dir='ltr'><strong>Μζῖῖῖππππεππῖῖππῖπῖψ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
